@@ -1,32 +1,36 @@
-.navbar{
+.navbar {
     width: 80%;
     margin-bottom: 30px;
 }
 
 header {
-    
+
     padding-top: 20px;
 
 }
-body{
-background-color: #212529;
+
+body {
+    background-color: #212529;
 
 }
-.topimage{
+
+.topimage {
     display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 10px;
-  width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    width: 40%;
 }
+
 img {
     display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 10px;
-  width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    width: 60%;
 }
-.text{
+
+.text {
     color: white;
     text-align: justify;
     padding-top: 20px;
@@ -35,13 +39,15 @@ img {
     margin-right: auto;
 
 }
-h5{
+
+h5 {
     text-align: center;
 }
-p{
+
+p {
     font-size: 22px;
 }
 
-li{
+li {
     font-size: 22px;
 }
